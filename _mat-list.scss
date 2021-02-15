@@ -1,0 +1,10 @@
+.mat-list.oni-mat-list {
+    .mat-list-item {
+        &,
+        .mat-list-item-content {
+            height: auto !important;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    }
+}
