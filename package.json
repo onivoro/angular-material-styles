@@ -1,10 +1,7 @@
 {
   "name": "@onivoro/angular-material-styles",
-  "version": "0.1.0",
+  "version": "17.0.0",
   "repository": {
     "url": "https://github.com/onivoro/angular-material-styles.git"
-  },
-  "scripts": {
-    "release": "npm version minor && npm publish --access public"
   }
 }
